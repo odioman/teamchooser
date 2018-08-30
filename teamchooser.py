@@ -42,3 +42,4 @@ while len(players) > 0:
 print('Team A:', teamA)
 print('Team B:', teamB)
 print('Team C:', teamC)
+print('Team D:', teamD)
